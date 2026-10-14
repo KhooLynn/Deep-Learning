@@ -11,9 +11,10 @@ Throughout the assignment, I experimented with different architectures, training
 | Achievement | Result |
 |---|---|
 | FIT3181 Assignment 1 | **100%** |
-| Kaggle leaderboard score | **95.03%** |
-| Mean 5-fold validation accuracy | **99.69%** |
-| Kaggle classification task | **20 classes** |
+| Kaggle Private Leaderboard (Final) | **95.326%** |
+| Kaggle Public Leaderboard | **95.026%** |
+| Mean 5-Fold Validation Accuracy | **99.69%** |
+| Classification Task | **20 classes** |
 
 *The Kaggle score is based on my submitted report. Validation accuracy was measured on the training dataset's held-out folds, not the Kaggle test set.*
 
